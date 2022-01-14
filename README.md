@@ -1,4 +1,5 @@
 ![nie](https://github-readme-stats.vercel.app/api?username=Korniszonn&show_icons=true&theme=radical)
+![pog](https://github-readme-stats.vercel.app/api/top-langs/?username=Korniszonn&theme=radical)
 <div align="center">
   <h1>Hello, I'm Korniszon 👋👋👋</h1>
 </div>
