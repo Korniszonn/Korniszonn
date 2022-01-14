@@ -6,7 +6,7 @@
   <a href="https://github.com/Korniszonn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Korniszonn&show_icons=true&bg_color=linear-gradient,020024,090979&border_color=000000&include_all_commits=true&count_private=true"/><br/><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korniszonn&layout=compact&langs_count=7&bg_color=linear-gradient,020024,090979&border_color=000000"/><br/><br/>
-    ![nie](https://github-readme-stats.vercel.app/api?username=Korniszonn&show_icons=true&theme=radical)
+   [nie](https://github-readme-stats.vercel.app/api?username=Korniszonn&show_icons=true&theme=radical)
 </div><hr/>
   
 <div align="center" style="display: inline_block"><br>
